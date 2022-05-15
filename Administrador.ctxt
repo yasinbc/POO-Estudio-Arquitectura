@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Administrador
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Administrador\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Administrador()
+comment1.text=\r\n\ Constructor\ que\ inizializa\ las\ variables\r\n
+comment2.params=
+comment2.target=void\ altaUsuario()
+comment2.text=private\ int\ numeroUsuarios(){\r\n\ \ \ \ \ \ \ \ return\ usuarios.size();\r\n}
+comment3.params=cat\ usuario
+comment3.target=void\ introducirCategoria(java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=void\ mostrarUsuarios()
+numComments=5
